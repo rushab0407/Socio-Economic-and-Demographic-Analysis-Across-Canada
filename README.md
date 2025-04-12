@@ -63,6 +63,8 @@ This script explores Canada's demographic and transportation data from the 2021 
 
 ---
 
+![Dashboard Screenshot](assets/v1234.png)
+
 ## 📊 Forecasting Summary
 
 | Year | Holt-Winters | ARIMA | Ensemble Avg |
