@@ -63,7 +63,7 @@ This script explores Canada's demographic and transportation data from the 2021 
 
 ---
 
-![Dashboard Screenshot](assets/v1234.png)
+![Dashboard Screenshot](assets/1234.png)
 
 ## 📊 Forecasting Summary
 
